@@ -10,5 +10,3 @@ cd ../virDir
 touch virus1.vir virus2.vir worm3.wor malware4.mal trojan5.tro desc3.txt
 cd ../worDir
 touch worm1.wor worm2.wor malware3.mal trojan4.tro virus5.vir desc4.txt
-
-
